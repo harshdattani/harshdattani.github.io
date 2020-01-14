@@ -1,1 +1,3 @@
-# harshdattani.github.io
+---
+permalink: /index.html
+---
